@@ -27,3 +27,7 @@
 
 #### Module 5: LangSmith #### 
 * LangSmith를 연동하면 에이전트의 복잡한 추론 과정을 대시보드 
+
+## 레퍼런스 ##
+* https://docs.aws.amazon.com/ko_kr/prescriptive-guidance/latest/agentic-ai-frameworks/introduction.html
+
